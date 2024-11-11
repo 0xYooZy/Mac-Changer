@@ -52,5 +52,5 @@ This tool is intended for educational purposes only. Use it responsibly!
 Developed by YooZy 💻
 
 ## Connect with Me
-- **Twitter**: [@yourTwitterHandle](https://twitter.com/0xYooZy/)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/reda-selouane-398979333/)
+- **Twitter**: [YooZy](https://twitter.com/0xYooZy/)
+- **LinkedIn**: [Reda Selouane](https://www.linkedin.com/in/reda-selouane-398979333/)
